@@ -1,7 +1,6 @@
 #pragma once
 #include "BoardCell.h"
-
-
+/*абстрактный класс Алгоритм, все алгоритмы работы бота наследуются от этого класса*/
 class Algorithm 
 {
 private:

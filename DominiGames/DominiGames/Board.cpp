@@ -28,7 +28,6 @@ void Board::initBoard() {
 
 Board::Board() {
 	initBoard();
-	algorithm = new WaveAlgorithm(boardCells);
 }
 
 bool Board::isPositionExists(Position position) 
@@ -36,7 +35,7 @@ bool Board::isPositionExists(Position position)
 	return position.X >= 0 && position.Y >= 0 && position.X < BOARD_WIDTH && position.Y < BOARD_HEIGHT;
 }
 
-bool Board::tryMoveFigure(Position position1, Position position2, State state) 
+bool Board::tryMovePawn(Position position1, Position position2, State state) 
 {	
 	if (!isPositionExists(position1) || !isPositionExists(position2))
 		return false;
@@ -52,9 +51,7 @@ bool Board::tryMoveFigure(Position position1, Position position2, State state)
 	return true;
 }
 
-bool Board::moveFigureByUser(Move &move){
-	return tryMoveFigure(move.from, move.to,USER_COLOR);
-}
+
 
 bool Board::checkStateForRect(Rect rect, State state) {
 	auto p1 = rect.leftTop;
@@ -84,12 +81,12 @@ State Board::getGameState()
 	return State::None;
 }
 
-bool Board::computerMove() {
+bool Board::computerMove(Algorithm *algorithm) {
 	auto state = getGameState();
 	if (state != State::None)
 		return true;
 	auto move = algorithm->getOptimalMove(boardCells);
-	auto moveResult= tryMoveFigure(move.from, move.to, COMPUTER_COLOR);
+	auto moveResult= tryMovePawn(move.from, move.to, COMPUTER_COLOR);
 	state = getGameState();
 	if (state != State::None)
 		return true;

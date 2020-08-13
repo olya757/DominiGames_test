@@ -1,59 +1,59 @@
 ﻿  Algorithm.cpp
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\Consts.h(13,43): warning C4305: аргумент: усечение из "double" в "const float"
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\Consts.h(14,46): warning C4305: аргумент: усечение из "double" в "const float"
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\Consts.h(13,43): warning C4305: аргумент: усечение из "double" в "const float"
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\Consts.h(14,46): warning C4305: аргумент: усечение из "double" в "const float"
   Board.cpp
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\Consts.h(13,43): warning C4305: аргумент: усечение из "double" в "const float"
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\Consts.h(14,46): warning C4305: аргумент: усечение из "double" в "const float"
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\Consts.h(13,43): warning C4305: аргумент: усечение из "double" в "const float"
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\Consts.h(14,46): warning C4305: аргумент: усечение из "double" в "const float"
   BoardCell.cpp
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\Consts.h(13,43): warning C4305: аргумент: усечение из "double" в "const float"
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\Consts.h(14,46): warning C4305: аргумент: усечение из "double" в "const float"
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\BoardCell.cpp(14,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\BoardCell.cpp(15,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\BoardCell.cpp(16,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\BoardCell.cpp(17,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\BoardCell.cpp(19,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\BoardCell.cpp(19,23): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\BoardCell.cpp(25,75): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\Consts.h(13,43): warning C4305: аргумент: усечение из "double" в "const float"
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\Consts.h(14,46): warning C4305: аргумент: усечение из "double" в "const float"
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\BoardCell.cpp(14,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\BoardCell.cpp(15,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\BoardCell.cpp(16,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\BoardCell.cpp(17,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\BoardCell.cpp(19,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\BoardCell.cpp(19,23): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\BoardCell.cpp(25,75): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
   Game.cpp
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\Consts.h(13,43): warning C4305: аргумент: усечение из "double" в "const float"
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\Consts.h(14,46): warning C4305: аргумент: усечение из "double" в "const float"
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\Consts.h(13,43): warning C4305: аргумент: усечение из "double" в "const float"
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\Consts.h(14,46): warning C4305: аргумент: усечение из "double" в "const float"
   HelpGraphic.cpp
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(15,7): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(15,7): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(15,12): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(15,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(16,7): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(16,7): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(16,12): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(16,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(17,7): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(17,7): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(17,12): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(17,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(18,7): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(18,7): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(18,12): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(18,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(30,7): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(30,7): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(30,12): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(30,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(31,7): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(31,7): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(31,12): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(31,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(32,7): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(32,7): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(32,12): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\HelpGraphic.cpp(32,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(15,7): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(15,7): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(15,12): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(15,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(16,7): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(16,7): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(16,12): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(16,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(17,7): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(17,7): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(17,12): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(17,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(18,7): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(18,7): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(18,12): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(18,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(30,7): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(30,7): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(30,12): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(30,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(31,7): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(31,7): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(31,12): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(31,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(32,7): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(32,7): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(32,12): warning C4838: Преобразование из "double" в "float" требует сужающего преобразования.
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\HelpGraphic.cpp(32,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
   MouseManager.cpp
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\Consts.h(13,43): warning C4305: аргумент: усечение из "double" в "const float"
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\Consts.h(14,46): warning C4305: аргумент: усечение из "double" в "const float"
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\Consts.h(13,43): warning C4305: аргумент: усечение из "double" в "const float"
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\Consts.h(14,46): warning C4305: аргумент: усечение из "double" в "const float"
   Source.cpp
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\Consts.h(13,43): warning C4305: аргумент: усечение из "double" в "const float"
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\Consts.h(14,46): warning C4305: аргумент: усечение из "double" в "const float"
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\Consts.h(13,43): warning C4305: аргумент: усечение из "double" в "const float"
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\Consts.h(14,46): warning C4305: аргумент: усечение из "double" в "const float"
   WaveAlgorithm.cpp
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\Consts.h(13,43): warning C4305: аргумент: усечение из "double" в "const float"
-C:\Users\Olga Shishkina\source\repos\DominiGames\DominiGames\Consts.h(14,46): warning C4305: аргумент: усечение из "double" в "const float"
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\Consts.h(13,43): warning C4305: аргумент: усечение из "double" в "const float"
+C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\DominiGames\Consts.h(14,46): warning C4305: аргумент: усечение из "double" в "const float"
   Создание кода...
-  DominiGames.vcxproj -> C:\Users\Olga Shishkina\source\repos\DominiGames\Debug\DominiGames.exe
+  DominiGames.vcxproj -> C:\Users\Olga Shishkina\Desktop\DominiGames\DominiGames_test\DominiGames\Debug\DominiGames.exe

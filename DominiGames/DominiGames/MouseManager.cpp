@@ -63,15 +63,6 @@ bool MouseManager::pawnMoved() {
 			}
 			break;
 		case MouseState::Down:
-			if (!isMouseDown) {
-				if (mouseUp(x, y)) {
-					return true;
-				}
-			}
-			else {
-				mouseMove(x, y);
-			}
-			break;
 		case MouseState::DownWithPawn:
 			if (!isMouseDown) {
 				if (mouseUp(x, y)) {
