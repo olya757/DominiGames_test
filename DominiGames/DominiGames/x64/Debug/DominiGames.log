@@ -1,0 +1,9 @@
+﻿Source.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwInit в функции main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwTerminate в функции main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwCreateWindow в функции main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwWindowShouldClose в функции main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwPollEvents в функции main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwMakeContextCurrent в функции main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ glfwSwapBuffers в функции main
+C:\Users\Olga Shishkina\source\repos\DominiGames\GL\GLFW\lib-vc2019\glfw3.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\Olga Shishkina\source\repos\DominiGames\x64\Debug\DominiGames.exe : fatal error LNK1120: неразрешенных внешних элементов: 7
